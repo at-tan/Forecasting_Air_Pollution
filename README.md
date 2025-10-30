@@ -5,4 +5,4 @@ The data exhibited significant outliers and complex seasonalities, and was plagu
 
 The subsequent results on the holdout test set showed the Stack Model with the best MAE and RMSE scores. The stack's scores also evinced a 5–6% improvement over the baseline Persistence Model. In conclusion, the exercise demonstrated the effectiveness of a machine learning ensemble stack approach to multivariate time series analysis.
 
-A description of the research methodology and the model findings are presented in https://towardsdatascience.com/stacking-machine-learning-models-for-multivariate-time-series-28a082f881?sk=7e7880ed0cebe567c44c6604bc23d683
+A description of the research methodology and the model findings are presented in https://medium.com/data-science/stacking-machine-learning-models-for-multivariate-time-series-28a082f881
